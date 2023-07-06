@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaplanh/img_galery/static/css/main.57a9cc14.css",
+    "main.js": "/kaplanh/img_galery/static/js/main.b38e1978.js",
+    "index.html": "/kaplanh/img_galery/index.html",
+    "main.57a9cc14.css.map": "/kaplanh/img_galery/static/css/main.57a9cc14.css.map",
+    "main.b38e1978.js.map": "/kaplanh/img_galery/static/js/main.b38e1978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a9cc14.css",
+    "static/js/main.b38e1978.js"
+  ]
+}
