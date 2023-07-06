@@ -1,0 +1,12 @@
+.card-body{
+
+    overflow: hidden;
+}
+img{
+    transition: all 0.7s ease;
+    &:hover{
+        transform: scale(1.5);
+        
+
+    }
+}
