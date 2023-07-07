@@ -1,12 +1,9 @@
-.card-body{
-
+.image {
     overflow: hidden;
 }
-img{
-    transition: all 0.7s ease;
-    &:hover{
+img {
+    transition: all 1.2s ease;
+    &:hover {
         transform: scale(1.5);
-        
-
     }
 }
